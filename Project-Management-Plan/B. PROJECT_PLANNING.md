@@ -24,8 +24,8 @@ As for the Face Recognition Project, the system WBS are represented as follow. T
 
 ![GAMBAR](https://user-images.githubusercontent.com/121369021/211601484-75baf904-121c-4246-bd56-0af0f6d7d5cd.png)
 
-
-| Left-aligned | Center-aligned | Right-aligned |
+### **Risk Identification Chart**
+| Control Element | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
