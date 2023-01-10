@@ -36,6 +36,7 @@ people who are left behind in a vehicle. The system will use is OpenCV
 and Haarcascade algorithm.
 
 b) People Information
+<br><br>
 This system will detect people and offer information such as attendance about 
 their name, face, time, and date.
 
