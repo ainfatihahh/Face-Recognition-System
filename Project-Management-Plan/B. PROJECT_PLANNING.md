@@ -17,7 +17,7 @@ life cycle WBS breakdown the task and work of every members such as project mana
 process, planning process, executing process, monitoring and controlling process, and lastly 
 closing process.
 
-Project Management is shown in the table below:
+Project Management WBS's is shown in the table below:
 ![wbs](https://user-images.githubusercontent.com/121369021/211588932-dfd26309-8883-4d53-a8a6-9cf32ce1a6f7.png)
 
 As for the Face Recognition Project, the system WBS are represented as follow. This WBS is constructured to breakdown the technical part of the project into several modules such as Face Detection, Face Recognition, interface design and API management:
