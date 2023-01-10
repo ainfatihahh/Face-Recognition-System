@@ -18,5 +18,4 @@ process, planning process, executing process, monitoring and controlling process
 closing process.
 
 Project Management is shown in the table below:
-
-[PROJECT WBS - GROUP C S1G1.xlsx - WBS with Gantt Chart.pdf](https://github.com/ainfatihahh/Face-Recognition-System/files/10383946/PROJECT.WBS.-.GROUP.C.S1G1.xlsx.-.WBS.with.Gantt.Chart.pdf)
+![wbs](https://user-images.githubusercontent.com/121369021/211588932-dfd26309-8883-4d53-a8a6-9cf32ce1a6f7.png)
