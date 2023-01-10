@@ -18,3 +18,4 @@ process, planning process, executing process, monitoring and controlling process
 closing process.
 
 Project Management is shown in the table below:
+![image](https://user-images.githubusercontent.com/121369021/211588698-060105cd-da0c-4a44-86e8-32866898baf5.png)
