@@ -27,6 +27,6 @@ As for the Face Recognition Project, the system WBS are represented as follow. T
 ### **Risk Identification Chart**
 | CONTROL ELEMENT | QUALITY | COST | TIME |
 | :---         |     :---:      |          ---: |          ---: | 
-| QUALITY ((Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program))   | git status     | git status    | git status    |
-| COST     | git diff       | git diff      | git status    |
-| TIME     | git diff       | git diff      | git status    |
+| *QUALITY* ((Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program))   | git status     | git status    | git status    |
+| *COST* (Estimating errors; inadequate productivity, cost, change, or contingency)    | git diff       | git diff      | git status    |
+| *TIME* (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products)     | git diff       | git diff      | git status    |
