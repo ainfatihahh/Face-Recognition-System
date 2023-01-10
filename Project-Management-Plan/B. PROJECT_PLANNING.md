@@ -26,6 +26,6 @@ As for the Face Recognition Project, the system WBS are represented as follow. T
 
 ### **Risk Identification Chart**
 | Control Element | QUALITY | COST | TIME |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| :---         |     :---:      |          ---: |          ---: | 
+| git status   | git status     | git status    | git status    |
+| git diff     | git diff       | git diff      | git status    |
