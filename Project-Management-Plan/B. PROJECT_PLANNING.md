@@ -28,6 +28,8 @@ As for the Face Recognition Project, the system WBS are represented as follow. T
 | CONTROL ELEMENT | ISSUE | SITUATION | DISCLOSURE |
 | :---         |     :---:      |          ---: |          ---: | 
 | *QUALITY* ((Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program))   | 1.	Inadequate Quality Assurance Program: Facial Recognition systems can be impacted by poor lighting or low image quality. The data may not match up with the person’s nodal points because of camera angles being obscured; this creates an error when matching faceprints cannot be verified in the database.
-     | git status    | git status    |
+     | 1.	Inadequate Quality Assurance Program: Facial Recognition systems can be impacted by poor lighting or low image quality. The data may not match up with the person’s nodal points because of camera angles being obscured; this creates an error when matching faceprints cannot be verified in the database.
+    | 1.	Inadequate Quality Assurance Program: Facial Recognition systems can be impacted by poor lighting or low image quality. The data may not match up with the person’s nodal points because of camera angles being obscured; this creates an error when matching faceprints cannot be verified in the database.
+    |
 | *COST* (Estimating errors; inadequate productivity, cost, change, or contingency)    | git diff       | git diff      | git status    |
 | *TIME* (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products)     | git diff       | git diff      | git status    |
