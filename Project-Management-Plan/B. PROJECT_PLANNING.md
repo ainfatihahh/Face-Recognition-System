@@ -24,6 +24,12 @@ As for the Face Recognition Project, the system WBS are represented as follow. T
 
 ![GAMBAR](https://user-images.githubusercontent.com/121369021/211601484-75baf904-121c-4246-bd56-0af0f6d7d5cd.png)
 
+### Project Scope Statement**
+
+The scope involved in Face Recognition System is divided into two 
+parts namely module specification and user specification as follows:
+
+
 ### **Risk Identification Chart (Quality,Cost,Time)**
 | CONTROL ELEMENT | ISSUE | SITUATION | DISCLOSURE |
 | ---         |     ---      |          --- |          --- | 
