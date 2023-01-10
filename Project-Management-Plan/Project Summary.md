@@ -2,8 +2,8 @@
 
 # Defining the project
 
-**Project Name: Face Recognition System**
-**Company Name: FRS Company**
+**Project Name: FACE RECOGNITION SYSTEM**
+**Company Name: FRS COMPANY**
 **Team Members:**
 1. AIN FATIHAH AIMAN BINTI MOHD YUSSUF (B032020016)
 2. NURUL HANIM BINTI ABDUL HALIM@HALIM (B032010218)
@@ -25,10 +25,8 @@ attendance of students.
 
 
 **Objectives**
-<sub>
 The objectives embarks on the following objectives:
   1. To develop an artificial intelligence system that are able to detect faces of people.
   2. To develop a system that are able to recognize the faces of people.
   3. To develop a system that can compared to the already-stored record, and the database will then reflect the results of the comparison as attendance
-</sub>
 
