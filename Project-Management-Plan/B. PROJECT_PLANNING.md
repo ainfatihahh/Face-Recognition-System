@@ -29,6 +29,16 @@ As for the Face Recognition Project, the system WBS are represented as follow. T
 The scope involved in Face Recognition System is divided into two 
 parts namely module specification and user specification as follows:
 
+a) Detection and Recognition
+<br><br>
+This module is built to detect and track people from cameras. User may see 
+people who are left behind in a vehicle. The system will use is OpenCV 
+and Haarcascade algorithm.
+
+b) People Information
+This system will detect people and offer information such as attendance about 
+their name, face, time, and date.
+
 
 ### **Risk Identification Chart (Quality,Cost,Time)**
 | CONTROL ELEMENT | ISSUE | SITUATION | DISCLOSURE |
