@@ -23,3 +23,9 @@ Project Management is shown in the table below:
 As for the Face Recognition Project, the system WBS are represented as follow. This WBS is constructured to breakdown the technical part of the project into several modules such as Face Detection, Face Recognition, interface design and API management:
 
 ![GAMBAR](https://user-images.githubusercontent.com/121369021/211601484-75baf904-121c-4246-bd56-0af0f6d7d5cd.png)
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
