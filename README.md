@@ -21,4 +21,4 @@ The project is created by adhering to the PMP in order to better organise the pr
 
 ## Project Management Plan
 
-### **Project Summary: **
+#### Project Summary:
