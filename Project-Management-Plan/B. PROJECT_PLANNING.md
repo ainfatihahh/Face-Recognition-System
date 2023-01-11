@@ -56,6 +56,24 @@ responsibilities are given in the table below
 
 | ROLES | PERSON IN CHARGE | RESPONSIBILITY |
 | ---  |     ---      |    --- | 
-|  **Project Manager**  |Ain Fatihah Aiman Binti Mohd Yussuf| All project office management-related tasks are subject to the Project Manager's responsibility to the Project Director. In addition to assisting in the creation of the master project schedule and all other project work plans, the project manager prepares, directs, and monitors the daily internal activities that support the project office. Face Recognition Project's project manager will need to determine who we can approach with our idea and who is most likely to accept it. The project manager must also verify that all initiation and planning documentation, including the Gantt chart and Work Breakdown Structure (WBS), are created in a complete and understandable manner. <br><br> The development, upkeep, and adherence to the Project Office infrastructure and supporting methodology (such as processes, procedures, standards, and templates) that are in accordance with OSI Best Practices and policies are the responsibility of the Project Manager. The Face Recognition Project must continue to be watched after to ensure that its progress complies with its requirements and scope. If a problem arises, the project manager must work on a solution.|
+|  **Project Manager**  |AIN FATIHAH AIMAN BINTI MOHD YUSSUF| All project office management-related tasks are subject to the Project Manager's responsibility to the Project Director. In addition to assisting in the creation of the master project schedule and all other project work plans, the project manager prepares, directs, and monitors the daily internal activities that support the project office. Face Recognition Project's project manager will need to determine who we can approach with our idea and who is most likely to accept it. The project manager must also verify that all initiation and planning documentation, including the Gantt chart and Work Breakdown Structure (WBS), are created in a complete and understandable manner. <br><br> The development, upkeep, and adherence to the Project Office infrastructure and supporting methodology (such as processes, procedures, standards, and templates) that are in accordance with OSI Best Practices and policies are the responsibility of the Project Manager. The Face Recognition Project must continue to be watched after to ensure that its progress complies with its requirements and scope. If a problem arises, the project manager must work on a solution.|
 |  **Procurement Manager** | NOR AILY BINTI ROZALI  | |
-| *TIME* <br> (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products)     |  |
+|  **Risk Manager**   | NURUL HANIM BINTI ABDUL HALIM@HALIM |  |
+|  **Administrative Manager**   | NURUL HANIM BINTI ABDUL HALIM@HALIM |  |
+|  **Financial Analyst** | NOR AILY BINTI ROZALI  | |
+|  **Project Scheduler**  |AIN FATIHAH AIMAN BINTI MOHD YUSSUF| |
+|  **Quality Manager**  |AIN FATIHAH AIMAN BINTI MOHD YUSSUF| |
+|  **Stakeholder Coordinator** | NOR AILY BINTI ROZALI  | |
+|  **Technical Manager**   | NURUL HANIM BINTI ABDUL HALIM@HALIM |  |
+|  **Implemetation Manager** | NOR AILY BINTI ROZALI  | |
+|  **Test Manager** | NOR AILY BINTI ROZALI  | |
+|  **Operations Manager**  |AIN FATIHAH AIMAN BINTI MOHD YUSSUF| |
+|  **Customer Support Manager**   | NURUL HANIM BINTI ABDUL HALIM@HALIM |  |
+|  **Executive Steering Committee** | NOR AILY BINTI ROZALI  | |
+|  **Office of Technology Services (OTech) Representative**  |AIN FATIHAH AIMAN BINTI MOHD YUSSUF| |
+
+
+
+
+
+
