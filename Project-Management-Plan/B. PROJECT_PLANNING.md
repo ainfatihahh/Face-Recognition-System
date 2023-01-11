@@ -48,6 +48,15 @@ their name, face, time, and date.
 | *COST* <br>  (Estimating errors; inadequate productivity, cost, change, or contingency) |<br> 1. Contigency: If one of the team members damages the camera or lighting equipment, the cost of the items will go up. <br> <br>2. Inadequate productivity: Team members who were impacted by COVID-19 and were unable to deliver what they were expected to deliver, which resulted in additional costs, need to be budgeted for the same equipment.      | How: The monthly bills shows unexpected extra charged to the bills. <br> <br> When: The problem most probably will be encountered during the project execution and project implementation. | Notify the owner through email or discord whenever budget exceed threshold in the AWS cloud computing service.  |
 | *TIME* <br> (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products)     |  1. Project not able to reach the milestone set as described in the Gantt Chart.<br> <br> 2. Erros in estimating resource availability: There are not enough server to be used to run the face recognition model training | How: The members are stuck with a certain problem and drag all the other team members <br> <br> When: The problem will be encountered during the project excution and monitoring phase.  |  Ask support from the other team member and switch their task or job to other job to avoid him/her to stuck in the problem loop.   |
 
+### **Responsibility Assignment Matrices (RAM)**
+
+![RAM 1](https://user-images.githubusercontent.com/121369021/211814085-06c87946-be96-425b-94f8-2d392b0cac7a.png)
+
+![RAM 2](https://user-images.githubusercontent.com/121369021/211814503-00ed3250-6965-4298-9cdf-555327407d09.png)
+
+*clear version: [RAM_RAM 2_merged.pdf](https://github.com/ainfatihahh/Face-Recognition-System/files/10392623/RAM_RAM.2_merged.pdf)
+
+
 ### **Roles and Responsibility**
 
 This section defines the various roles and responsibilities of the project team members.
