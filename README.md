@@ -21,4 +21,4 @@ The project is created by adhering to the PMP in order to better organise the pr
 
 ## Project Management Plan
 
-#### [Project Summary:] (https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/B.%20PROJECT_PLANNING.md)
+#### [Project Summary:](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/B.%20PROJECT_PLANNING.md)
