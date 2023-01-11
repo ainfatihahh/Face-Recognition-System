@@ -49,7 +49,8 @@ their name, face, time, and date.
 
 ### **Responsibility Assignment Matrices (RAM)**
 
-![RAM 1](https://user-images.githubusercontent.com/121369021/211814085-06c87946-be96-425b-94f8-2d392b0cac7a.png)
+![RAM 1](https://user-images.githubusercontent.com/121369021/211816922-28199faa-d3d8-4fcd-a888-7103379ffd2a.png)
+
 
 ![RAM 2](https://user-images.githubusercontent.com/121369021/211814503-00ed3250-6965-4298-9cdf-555327407d09.png)
 
