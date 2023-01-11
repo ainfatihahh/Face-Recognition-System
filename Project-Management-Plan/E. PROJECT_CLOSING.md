@@ -21,7 +21,7 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 
 ![gambar2](https://user-images.githubusercontent.com/121369021/211830938-d3b19873-2b65-47c2-8778-bcc5f900cc38.jpg)
 
-### AIN FATIHAH AIMAN BINTI MOHD YUSSUF**
+### AIN FATIHAH AIMAN BINTI MOHD YUSSUF
 
 1. Manage and lead the project team.
 2. Ensure project meet the dateline.
