@@ -21,4 +21,18 @@ The project is created by adhering to the PMP in order to better organise the pr
 
 ## Project Management Plan
 
-#### [Project Summary:](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/B.%20PROJECT_PLANNING.md)
+#### Project Summary: [Project Summary](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/B.%20PROJECT_PLANNING.md)
+
+#### Project Planning: [Project Planning](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/B.%20PROJECT_PLANNING.md)
+
+#### Project Implemenation: [Project Implemenation](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/C.%20PROJECT_IMPLEMENTATION.md)
+
+#### Project Execution: [Project Execution](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/D.%20PROJECT_EXECUTION.md)
+
+#### Project Closing: [Project Closing](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/E.%20PROJECT_CLOSING.md)
+
+#### Project Presentation: [Project Presentation](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/F.%20PROJECT_PRESENTATION.md)
+
+
+## Sample Result
+
