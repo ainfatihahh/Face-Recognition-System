@@ -55,7 +55,7 @@ This project has 15 titlesincluding Project Manager. The summary of the title, r
 responsibilities are given in the table below
 
 | ROLES | PERSON IN CHARGE | RESPONSIBILITY |
-| ---         |     ---      |          --- | 
+| ---  |     ---      |    --- | 
 |  *Project Manager*  |Ain Fatihah Aiman Binti Mohd Yussuf| |
 | || |
 | *TIME* <br> (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products)     |  |
