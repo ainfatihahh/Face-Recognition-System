@@ -1,0 +1,1 @@
+Images from this project is located in assets folder.
