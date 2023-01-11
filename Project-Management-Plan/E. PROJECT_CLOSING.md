@@ -26,5 +26,5 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 1. Manage and lead the project team.
 2. Ensure project meet the dateline.
 3. Manage and give permission or approval for all project expenses of company.
-4. Making major corporate decisions
+4. Making major corporate decisions.
 
