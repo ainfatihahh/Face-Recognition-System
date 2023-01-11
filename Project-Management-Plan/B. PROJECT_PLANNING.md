@@ -31,8 +31,7 @@ parts namely module specification and user specification as follows:
 
 a) Detection and Recognition
 <br><br>
-This module is built to detect and track people from cameras. User may see 
-people who are left behind in a vehicle. The system will use is OpenCV 
+This module is built to detect and track faces of people from cameras. But first, they need to register their information in a database so that later it can matches with their faces accordingly when scanning. The system will use is OpenCV 
 and Haarcascade algorithm.
 
 b) People Information
