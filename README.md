@@ -19,3 +19,6 @@ Project management was able to implement a professionalised management model bas
 
 The project is created by adhering to the PMP in order to better organise the project's lifecycle. The project is managed using a variety of charting tools, including Gantt charts, milestone charts, and work breakdown structures (WBS).
 
+## Project Management Plan
+
+### **Project Summary: **
