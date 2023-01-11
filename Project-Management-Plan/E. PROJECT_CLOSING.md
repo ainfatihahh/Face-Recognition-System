@@ -1,20 +1,8 @@
-# Project Overview
-
-# B.PLANNING THE PROJECT
-
-
 # **ABOUT FRS COMPANY**
 
-FRS COMPANY, is a private limited company arranged by 3 passionate college students from Universiti Teknikal Malaysia Melaka(UTeM)
-with a major in Artificial Intelligence, presents a comprehensive, fully-integrated software company which caters
-all the industry's requirement especially in biometrics fields such as face recognition system. We specialized in
-providing our clients a face recognition system with an affordable price. Our clients benefits that is tailored
-to each customer needs. Quality of services and the commitment of the director and staff have ensured that our customer
-retention rate is among the highest in the software industry.
+FRS COMPANY, is a private limited company arranged by 3 passionate college students from Universiti Teknikal Malaysia Melaka(UTeM) with a major in Artificial Intelligence, presents a comprehensive, fully-integrated software company which caters all the industry's requirement especially in biometrics fields such as face recognition system. We specialized in providing our clients a face recognition system with an affordable price. Our clients benefits that is tailored to each customer needs. Quality of services and the commitment of the director and staff have ensured that our customer retention rate is among the highest in the software industry.
 
-This company is led by a enthusiastic project manager, AIN FATIHAH AIMAN BINTI MOHD YUSSUF as a Chief Execution Official (CEO) , 
-together with the teammates, NURUL HANIM BINTI ABDUL HALIM@HALIM as a Chief Operating Official (COO) and NOR AILY BINTI ROZALI
-as a Chief Technology Official (CTO).
+This company is led by a enthusiastic project manager, AIN FATIHAH AIMAN BINTI MOHD YUSSUF as a Chief Execution Official (CEO) , together with the teammates, NURUL HANIM BINTI ABDUL HALIM@HALIM as a Chief Operating Official (COO) and NOR AILY BINTI ROZALI as a Chief Technology Official (CTO).
 
 Headquaters based in Melaka, Malaysia.
 
@@ -31,6 +19,12 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 
 ### **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
+![gambar2](https://user-images.githubusercontent.com/121369021/211830938-d3b19873-2b65-47c2-8778-bcc5f900cc38.jpg)
 
+### AIN FATIHAH AIMAN BINTI MOHD YUSSUF**
 
+1. Manage and lead the project team.
+2. Ensure project meet the dateline.
+3. Manage and give permission or approval for all project expenses of company.
+4. Making major corporate decisions
 
