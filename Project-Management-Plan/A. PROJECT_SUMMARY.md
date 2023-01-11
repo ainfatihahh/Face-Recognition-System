@@ -42,3 +42,5 @@ to help the system’s features be enhanced by applying the AI technique such as
 machine learning by using Haar-cascade classifier. The system aims to determine the 
 faces of people as an attendance. This chapter provides an early glimpse of what 
 will be from the developer's perspective. 
+
+
