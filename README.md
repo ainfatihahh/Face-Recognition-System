@@ -23,16 +23,27 @@ The project is created by adhering to the PMP in order to better organise the pr
 
 #### Project Summary: [Project Summary](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/B.%20PROJECT_PLANNING.md)
 
+Project Summary give a brief overview of the project objectives and team members details.
+
 #### Project Planning: [Project Planning](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/B.%20PROJECT_PLANNING.md)
+
+Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Gantt Chart, Work Breakdown Structure(WBS) is documented in this phase.
 
 #### Project Implemenation: [Project Implemenation](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/C.%20PROJECT_IMPLEMENTATION.md)
 
+Project Implementation define the project deliverables which included software requirement, Intelligent system architecture and etc.
+
 #### Project Execution: [Project Execution](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/D.%20PROJECT_EXECUTION.md)
+
+Project Execution is the execution phase where the result, coding blocks and technical implementation is defined and documented.
 
 #### Project Closing: [Project Closing](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/E.%20PROJECT_CLOSING.md)
 
+Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
+
 #### Project Presentation: [Project Presentation](https://github.com/ainfatihahh/Face-Recognition-System/blob/main/Project-Management-Plan/F.%20PROJECT_PRESENTATION.md)
 
+Project Presentation shows the demonstration of the car plate recognition system developed by FRS COMPANY.
 
 ## Sample Result
 
