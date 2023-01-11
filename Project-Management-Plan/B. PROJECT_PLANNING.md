@@ -51,8 +51,8 @@ their name, face, time, and date.
 
 ![RAM 1](https://user-images.githubusercontent.com/121369021/211817838-fc5ae4e0-f729-4f41-a707-f8a48bc144b8.png)
 
+![RAM 2](https://user-images.githubusercontent.com/121369021/211818257-355b9872-7353-44f3-a753-1080e7df1195.png)
 
-![RAM 2](https://user-images.githubusercontent.com/121369021/211814503-00ed3250-6965-4298-9cdf-555327407d09.png)
 
 *clear version: [RAM_RAM 2_merged.pdf](https://github.com/ainfatihahh/Face-Recognition-System/files/10392623/RAM_RAM.2_merged.pdf)
 
