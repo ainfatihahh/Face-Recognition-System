@@ -27,4 +27,17 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 2. Ensure project meet the dateline.
 3. Manage and give permission or approval for all project expenses of company.
 4. Making major corporate decisions.
+<br>
+
+**CHIEF TECHNOLOGY OFFICIAL (CTO)**
+
+<img src="assets/Project-Management-Plan/assets/AILY.jpg" width="200" height="auto" />
+
+**NOR AILY BT ROZALI**
+
+Responsiblity:
+1. Make decision on the car plate recognition technology needed
+2. Create the policy for the company to unsure a safe and secure development and production environment
+3. Communicate with all levels to make sure the ideas and project are able to be delivered
+4. Manage the technical staff available in the company and seprate the task based on their expertise
 
