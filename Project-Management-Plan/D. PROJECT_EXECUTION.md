@@ -10,7 +10,7 @@
 ![flowchart](https://user-images.githubusercontent.com/121369021/211849364-7463801c-9484-4da9-8f14-cd2950333ccf.png)
 ### Model Training Flowchart Design
 
-##### 1.0 Start
+<br>1.0 Start
 ##### 1.1 Activate camera for scanning
 ##### 1.2 Open Camera
 ##### 1.3 Search for face
