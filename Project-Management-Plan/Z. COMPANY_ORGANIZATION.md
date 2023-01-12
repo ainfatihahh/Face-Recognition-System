@@ -31,8 +31,8 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
-![gambar2](https://github.com/ainfatihahh/Face-Recognition-System/blob/68780c2cb2827007f3c048b5649066ab67cfd30f/Project-Management-Plan/assets/.jpg) width="200" height="auto" />
-![alt text]
+![gambar2](https://github.com/ainfatihahh/Face-Recognition-System/blob/9acf1a1a932dbeeadac12785f2f730a541c08f70/Project-Management-Plan/assets/aily.jpg) width="200" height="auto" />
+
 **NOR AILY BT ROZALI**
 
 Responsiblity:
