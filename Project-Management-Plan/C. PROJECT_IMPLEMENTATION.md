@@ -1,3 +1,4 @@
+#IMPLEMENTATION
 # Deliverables:
 Software Requirements: 
 1.	A **Linux-Based Operating System** to deploy and operate facial recognition algorithms.
