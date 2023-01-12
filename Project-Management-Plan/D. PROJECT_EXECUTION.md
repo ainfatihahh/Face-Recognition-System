@@ -11,13 +11,13 @@
 ### Model Training Flowchart Design
 
 <br>1.0 Start
-##### 1.1 Activate camera for scanning
-##### 1.2 Open Camera
-##### 1.3 Search for face
-##### 2.1 Face Detected
-##### 2.2 If yes, draw rectangle around the face
-##### 3.1 If unrecodnize face, detect faces as 'unknown'
-##### 3.2 If recodnize face, detect faces by their names
-##### 4.0 End
+<br>1.1 Activate camera for scanning
+<br>1.2 Open Camera
+<br>1.3 Search for face
+<br>2.1 Face Detected
+<br>2.2 If yes, draw rectangle around the face
+<br>3.1 If unrecodnize face, detect faces as 'unknown'
+<br>3.2 If recodnize face, detect faces by their names
+<br>4.0 End
 
 ### **Description of the project coding and implementation**
