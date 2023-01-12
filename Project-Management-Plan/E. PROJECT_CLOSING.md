@@ -4,10 +4,9 @@
 
 ![alt text](https://github.com/ainfatihahh/Face-Recognition-System/blob/f73f2196e99a05b8a4365d070c08efceb08b5a96/Project-Management-Plan/assets/CustomerAcceptanceForm.jpg "Customer Acceptance Form")
 
-## 2. Lesson Learned Docume
+## 2. Lesson Learned Document
 
 ![lagi_Page_3](https://user-images.githubusercontent.com/95037934/211982644-20eb3e1e-3548-4c21-ac14-6b8c08e1377a.png)
-nt
  
 
 ## 3. Final Project Report
