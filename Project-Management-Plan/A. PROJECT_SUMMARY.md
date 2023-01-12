@@ -6,8 +6,6 @@
 
 ### **Company Name: FRS COMPANY**
 
-### **Customer Name: UNIVERSITI TEKNIKAL MALAYSIA MELAKA (UTeM)**
-
 ### **Team Members:**
 
 1. AIN FATIHAH AIMAN BINTI MOHD YUSSUF (B032020016)
