@@ -23,6 +23,7 @@ Our team complete the project within the scheduled timeline. The schedule is as 
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
 ![alt text]( "Overall Project Budget")
+
 **5.0 PROJECT ASSESSMENT**
 
 **5.1 SCOPE**
@@ -34,7 +35,7 @@ The project scope was initiated from the beginning of the project. This system h
 3. To create a system that is able to record the details of the attendance that will display the date, time, and person's name.
 
 **5.3 IMPACTS**
-1.	A Haar cascade classifier was used which was able to recognize faces with great accuracy and efficiency using the OpenCV library.
+1.	Easy access to check the attendance list in the future compared to manual recording attendance.
 2.	Able to determine the faces of people entering and exiting a specific place such as class to take attendance.
 3.	Reduced the time consumed in taking attendance.
 
