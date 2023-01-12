@@ -2,6 +2,7 @@
 Software Requirements: 
 1.	A **Linux-Based Operating System** to deploy and operate facial recognition algorithms.
 2.	A **User-Interface Application** allow user to interact with the facial recognition system via devices.
+3.	Visual studio code (Python)
 
 # Hardware Requirements: 
 1.	A **Camera** to capture facial images of users and used in identifying faces.
