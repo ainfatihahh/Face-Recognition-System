@@ -39,6 +39,8 @@ b) People Information
 This system will detect people and offer information such as attendance about 
 their name, face, time, and date.
 
+As a result, a computer-based method of taking student's attendance in a class is required, which will assist institutions in automatically keeping attendance records. Therefore, this project focuses on making a face detection as a medium to take the  attendance of students especially for school and university purposes.
+
 
 ### **Risk Identification Chart (Quality,Cost,Time)**
 | CONTROL ELEMENT | ISSUE | SITUATION | DISCLOSURE |
