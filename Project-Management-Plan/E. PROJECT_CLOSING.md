@@ -17,4 +17,4 @@ After the system has been develop and completed, the accuracy reaches the highes
 
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 Our team complete the project within the scheduled timeline. The schedule is as below:
-![alt text](https://github.com/ainfatihahh/Face-Recognition-System/blob/d6c3df809d3ed7eba886bf2e0bd83c40c45921c5/Project-Management-Plan/assets/wbs.jpg "Milestone Timeline)
+![alt text](https://github.com/ainfatihahh/Face-Recognition-System/blob/d6c3df809d3ed7eba886bf2e0bd83c40c45921c5/Project-Management-Plan/assets/wbs.jpg "Milestone Timeline")
