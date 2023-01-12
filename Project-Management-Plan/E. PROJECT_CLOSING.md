@@ -30,9 +30,9 @@ The actual budget matches the original budget, which means that the team has fol
 The project scope was initiated from the beginning of the project. This system has been developed to focuse on making a face detection as a medium to take the  attendance of students especially for school and university purposes. Face detection and recognition have progressed from obscure to popular fields of computer vision research in the last decade, and is now one of the better and more effective applications of image analysis. Face recognition has been one of the most important areas in computer vision and image analysis in the last decade. In general, face detection is performed in real time in three scenarios: first, from a still image scene, second, from a stream of video scenes, and third, from scenes retrieved from stored databases to identify the person or persons.
 
 **5.2 OBJECTIVES**
-1.To create a web-based system of Face Recognition that can take attendance 
-2. To create a web-based system that recognize their faces according to their name that are already registered in the database.
-3. To create a system that is able to record the details of the attendance that will display the date, time, and person's name.
+<br>1.To create a web-based system of Face Recognition that can take attendance 
+<br>2. To create a web-based system that recognize their faces according to their name that are already registered in the database.
+<br>3. To create a system that is able to record the details of the attendance that will display the date, time, and person's name.
 
 **5.3 IMPACTS**
 1.	Easy access to check the attendance list in the future compared to manual recording attendance.
