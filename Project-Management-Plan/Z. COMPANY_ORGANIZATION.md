@@ -32,7 +32,8 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 
 ### **CHIEF OPERATING OFFICIAL (COO)**
 
-![DSC_0871](https://user-images.githubusercontent.com/95037934/211996885-6923716d-f30b-4b91-9887-a73b1de0e29e.JPG)
+![Untitled design](https://user-images.githubusercontent.com/95037934/212000841-9ad5be9a-de29-49e4-9fc2-639b321e3b7e.png)
+
 
 ### NURUL HANIM BINTI ABDUL HALIM@HALIM
 
