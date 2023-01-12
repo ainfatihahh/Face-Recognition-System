@@ -29,6 +29,19 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 4. Making major corporate decisions.
 <br>
 
+
+### **CHIEF OPERATING OFFICIAL (COO)**
+
+![DSC_0871](https://user-images.githubusercontent.com/95037934/211996885-6923716d-f30b-4b91-9887-a73b1de0e29e.JPG)
+
+### NURUL HANIM BINTI ABDUL HALIM@HALIM
+
+1. Design and implement business strategies, plans and procedures.
+2. Set comprehensive goals for performance and growth.
+3. Establish policies that promote company culture and vision.
+4. oversee daily operations of the company and the work of executives.
+
+
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
 ![gambar2](https://github.com/ainfatihahh/Face-Recognition-System/blob/472aaec5886bcad32355b52e413da57d983ecd12/Project-Management-Plan/assets/AILY.png)
