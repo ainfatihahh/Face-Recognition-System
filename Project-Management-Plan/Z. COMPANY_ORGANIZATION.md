@@ -50,7 +50,6 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 
 **NOR AILY BT ROZALI**
 
-Responsiblity:
 1. Make decision on the car plate recognition technology needed
 2. Create the policy for the company to unsure a safe and secure development and production environment
 3. Communicate with all levels to make sure the ideas and project are able to be delivered
