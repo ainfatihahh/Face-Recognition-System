@@ -21,3 +21,7 @@
 <br>4.0 End
 
 ### **Description of the project coding and implementation**
+
+Libraries and Packages required:
+
+Facial Recognition System: Firstly, we load our model from the pre-trained that was created. From our Github repository, two file: mainwindow.py and out_window can be found. 
