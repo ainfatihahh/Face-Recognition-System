@@ -24,7 +24,7 @@
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 <br>The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
-![alt text](https://github.com/ainfatihahh/Face-Recognition-System/blob/233e03a6b426aff504def05aa4d0a78af0fa6d67/Project-Management-Plan/assets/BUDGET.jpg "Overall Project Budget")
+![alt text](https://github.com/ainfatihahh/Face-Recognition-System/blob/c595947847d4c324646f4608d34801828f20c98a/Project-Management-Plan/assets/budget%20(2).jpg "Overall Project Budget")
 
 **5.0 PROJECT ASSESSMENT**
 
