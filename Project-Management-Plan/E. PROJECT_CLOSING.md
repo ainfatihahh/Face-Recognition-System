@@ -20,7 +20,7 @@
 ![alt text](https://github.com/ainfatihahh/Face-Recognition-System/blob/d6c3df809d3ed7eba886bf2e0bd83c40c45921c5/Project-Management-Plan/assets/wbs.jpg "Milestone Timeline")
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
-The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
+<br>The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
 ![alt text]( "Overall Project Budget")
 
