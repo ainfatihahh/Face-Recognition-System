@@ -26,19 +26,20 @@ The actual budget matches the original budget, which means that the team has fol
 **5.0 PROJECT ASSESSMENT**
 
 **5.1 SCOPE**
-The project scope was initiated from the beginning of the project. This system has been developed to identify and classify either it can access or not based on database and input that already make by users. For instance, the system not able to receive and store more than one data which is one person because of memory. It makes only owner of face recognition and fingerprint can access and make it limitation of system. But, the people who not registered in system can unlocked or access system by using password using keypad on system.
+The project scope was initiated from the beginning of the project. This system has been developed to focuse on making a face detection as a medium to take the  attendance of students especially for school and university purposes. Face detection and recognition have progressed from obscure to popular fields of computer vision research in the last decade, and is now one of the better and more effective applications of image analysis. Face recognition has been one of the most important areas in computer vision and image analysis in the last decade. In general, face detection is performed in real time in three scenarios: first, from a still image scene, second, from a stream of video scenes, and third, from scenes retrieved from stored databases to identify the person or persons.
 
 **5.2 OBJECTIVES**
-1.	Improved security: The system can accurately identify users based on their facial features or fingerprint data, making it more difficult for unauthorized individuals to gain access.
-2.	Convenience: The system can quickly and easily identify users, eliminating the need to fumble with keys or remember a PIN code.
-3.	Integration with other systems: The system can be integrated with other smart home or security systems, allowing for greater control and automation of the home or office.
+1.To create a web-based system of Face Recognition that can take attendance 
+2. To create a web-based system that recognize their faces according to their name that are already registered in the database.
+3. To create a system that is able to record the details of the attendance that will display the date, time, and person's name.
 
 **5.3 IMPACTS**
-1.	Increased security: The system can help to prevent unauthorized access to a space, reducing the risk of break-ins or unauthorized entry.
-2.	Improved convenience: The system can provide a more convenient and seamless experience for users, improving overall satisfaction and usability.
-3.	Reduced risk of lock tampering: The system can detect and prevent tampering with the lock, reducing the risk of break-ins or unauthorized entry.
-4.	**6.0 TRANSITION PLAN**
-HanSen Inc. staff will provide support when require. The main work of support provided by HanSen Inc.’s staff on the Smart Lock with Integrated Advanced Recognition system project are as shown below:
+1.	A Haar cascade classifier was used which was able to recognize faces with great accuracy and efficiency using the OpenCV library.
+2.	Able to determine the faces of people entering and exiting a specific place such as class to take attendance.
+3.	Reduced the time consumed in taking attendance.
+
+**6.0 TRANSITION PLAN**
+FRST Inc. staff will provide support when require. The main work of support provided by FRST Inc.’s staff on the Face Recognition with Integrated Advanced Recognition system project are as shown below:
 i) Keep the system running smoothly.
 ii) Handling errors and updates of the system
 iii) Give the owner of the house instructions on how to utilise the system
