@@ -2,4 +2,4 @@
 
 ## 1. Customer Acceptance Form
 
-Project-Management-Plan/assets/CustomerAcceptanceForm.jpg
+![alt text](https://github.com/ainfatihahh/Face-Recognition-System/assets/CustomerAcceptanceForm.jpg)
