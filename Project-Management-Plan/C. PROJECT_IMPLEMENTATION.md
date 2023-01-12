@@ -12,7 +12,7 @@ Software Requirements:
 One potential neural network architecture for a face recognition system is a convolutional neural network (CNN). CNNs are well-suited for image-based tasks such as facial recognition because they can extract useful features from the raw data and classify them based on patterns and structures present in the images.
 
 # Outcomes of the System:
-![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Implementation-Outcomes.png "Outcomes")
+![alt text](https://github.com/ainfatihahh/Face-Recognition-System/blob/e56c88721f2779ebecd37e2433911a4e3560fbce/Project-Management-Plan/assets/SYSTEM%20OUTCOME.png "Outcomes")
 
 # Tasks and Estimated Costs:
 Task|Cost|Note
