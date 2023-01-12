@@ -25,6 +25,5 @@ Training and support for users|$500|Training and support for users will involve 
 
 # Milestone Chart:
 
-![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Implementation-Milestone.jpg "Milestone")
+![alt text](https://github.com/ainfatihahh/Face-Recognition-System/blob/1be5ee557227fd616a6d5c74f3570cbb9e5179cd/Project-Management-Plan/assets/wbs.jpg "Milestone")
 
-![alt text](https://github.com/amirulian/smartlock-with-integrated-advanced-recognition/blob/main/REPORT/img/Implementation-MilestoneTimeline.jpg "Milestone Timeline")
