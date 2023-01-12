@@ -37,10 +37,10 @@ at an affordable price. In short to provide fundamentals for the brand to soar h
 
 ### NURUL HANIM BINTI ABDUL HALIM@HALIM
 
-1. Design and implement business strategies, plans and procedures.
-2. Set comprehensive goals for performance and growth.
-3. Establish policies that promote company culture and vision.
-4. oversee daily operations of the company and the work of executives.
+1. Report directly to CEO on any project progress and status
+2. Identify risks and threat that might be happened in the company
+3. Aids CEO in attending public events and meet more people on the community
+4. Maintain public relations with other members of the company
 
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
